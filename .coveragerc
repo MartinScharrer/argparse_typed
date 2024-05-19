@@ -30,6 +30,7 @@ exclude_lines =
 omit =
     tests/__init__.py
     tests/*
+    setup.py
 
 
 ignore_errors = True
