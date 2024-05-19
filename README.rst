@@ -2,20 +2,22 @@ argparse_typed - Type hints for argparse parameter namespaces
 =============================================================
 
 
-Usage example::
+Usage example:
 
-    from argparse_typed import TypedNamespace
+.. code-block:: python
 
-    class Arguments(TypedNamespace):
-        input: str = argument('-i', '--input')
-        output: str = argument('-o', '--output')
-        hex: bool = argument('-H', '--hex', action='store_true')
-        val: float = argument('-V', default=0.0)
+        from argparse_typed import TypedNamespace
 
-    parser = Arguments.parser()
-    args: Arguments = parser.parse_args([...])
+        class Arguments(TypedNamespace):
+            input: str = argument('-i', '--input')
+            output: str = argument('-o', '--output')
+            hex: bool = argument('-H', '--hex', action='store_true')
+            val: float = argument('-V', default=0.0)
 
-    # args.input will be identified as 'str'
+        parser = Arguments.parser()
+        args: Arguments = parser.parse_args([...])
+
+        # args.input will be identified as 'str'
 
 License:
     MIT License
