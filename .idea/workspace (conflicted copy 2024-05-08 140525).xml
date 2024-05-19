@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a238b188-e61e-4ed6-9bf9-2c5d1309f0b1" name="Changes" comment="Fixed typos.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ArgParseTyped.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ArgParseTyped.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/argparse_typed/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/argparse_typed/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.coveragerc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_args.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2flbhzKvGYHywVOwYTFv5TURsFO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_args.TestArgs.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_3.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_4.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_args.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_argument_empty.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_argument_group.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_argument_reserved.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_mutual_exclusive_group.executor": "Run",
+    "Python tests.Python tests for test_args.TestArgs.test_subparsers.executor": "Debug",
+    "Python tests.Python tests for test_args.TestArgs.test_subparsers2.executor": "Run",
+    "Python tests.Python tests in test.executor": "Run",
+    "Python tests.Python tests in test_args.py.executor": "Run",
+    "Python tests.Python tests in tests.executor": "Coverage",
+    "Python tests.Unittests for test_args.TestArgs.test_4.executor": "Debug",
+    "Python tests.Unittests for test_args.TestArgs.test_mutually_exclusive_group.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Users/Martin/Dropbox/Docs/Programmieren/Python/ArgParseTyped",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Unittests for test_args.TestArgs.test_mutually_exclusive_group">
+    <configuration name="Python tests for test_args.TestArgs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ArgParseTyped" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_args.TestArgs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_args.TestArgs.test_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ArgParseTyped" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_args.TestArgs.test_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_args.TestArgs.test_argument_reserved" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ArgParseTyped" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_args.TestArgs.test_argument_reserved&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ArgParseTyped" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_args.TestArgs.test_4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ArgParseTyped" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:/Python/Python312/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_args.TestArgs.test_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_args.TestArgs.test_mutually_exclusive_group" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ArgParseTyped" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_args.TestArgs.test_mutually_exclusive_group&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_args.TestArgs.test_mutually_exclusive_group" />
+        <item itemvalue="Python tests.Python tests in tests" />
+        <item itemvalue="Python tests.Python tests for test_args.TestArgs.test_argument_reserved" />
+        <item itemvalue="Python tests.Unittests for test_args.TestArgs.test_4" />
+        <item itemvalue="Python tests.Python tests for test_args.TestArgs.test_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a238b188-e61e-4ed6-9bf9-2c5d1309f0b1" name="Changes" comment="" />
+      <created>1714378735017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714378735017</updated>
+      <workItem from="1714378736113" duration="7014000" />
+      <workItem from="1714471997359" duration="13612000" />
+      <workItem from="1714576743643" duration="13156000" />
+      <workItem from="1714630254719" duration="13954000" />
+      <workItem from="1714647853815" duration="63000" />
+      <workItem from="1714648064913" duration="72000" />
+      <workItem from="1714736181114" duration="5891000" />
+      <workItem from="1714771929114" duration="596000" />
+      <workItem from="1714852858000" duration="6101000" />
+      <workItem from="1715167600949" duration="1244000" />
+    </task>
+    <task id="LOCAL-00001" summary="A">
+      <option name="closed" value="true" />
+      <created>1714472018140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714472018140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merged.&#10;Code cleanup, added docstrings and comments&#10;Added support for default values.">
+      <option name="closed" value="true" />
+      <created>1714485734914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714485734914</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added TypedNamespace.parser() to generate TypedArgumentParser directly from TypeNameSpace.">
+      <option name="closed" value="true" />
+      <created>1714486431913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714486431913</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added metaclass for TypedNamespace instead to avoid issues with attribute type definitions and the actual attributes.">
+      <option name="closed" value="true" />
+      <created>1714580035450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714580035450</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Restructuring.">
+      <option name="closed" value="true" />
+      <created>1714602133877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714602133877</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed MutuallyExclusiveGroup.">
+      <option name="closed" value="true" />
+      <created>1714603805598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714603805598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="TypedArgumentParser: Added parameters docstring. Made all parameters keyword-only.">
+      <option name="closed" value="true" />
+      <created>1714738444093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714738444093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update PyCharm config.">
+      <option name="closed" value="true" />
+      <created>1714738455565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714738455565</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed typos.">
+      <option name="closed" value="true" />
+      <created>1714738680271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714738680271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed typos.">
+      <option name="closed" value="true" />
+      <created>1714751772986</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714751772986</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A" />
+    <MESSAGE value="Merged.&#10;Code cleanup, added docstrings and comments&#10;Added support for default values." />
+    <MESSAGE value="Added TypedNamespace.parser() to generate TypedArgumentParser directly from TypeNameSpace." />
+    <MESSAGE value="Added metaclass for TypedNamespace instead to avoid issues with attribute type definitions and the actual attributes." />
+    <MESSAGE value="Restructuring." />
+    <MESSAGE value="Changed MutuallyExclusiveGroup." />
+    <MESSAGE value="Added docstrings and type hints." />
+    <MESSAGE value="Changed use of generics to older version as it has better support with type checkers." />
+    <MESSAGE value="Added some mypy ignores." />
+    <MESSAGE value="Made namespacecls a keyword-only argument." />
+    <MESSAGE value="Changed filtering to all _TypedNamespaceAttr instances." />
+    <MESSAGE value="Removed masking of attributes." />
+    <MESSAGE value="TypedArgumentParser: Added parameters docstring. Made all parameters keyword-only." />
+    <MESSAGE value="Update PyCharm config." />
+    <MESSAGE value="Fixed typos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed typos." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="default" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ArgParseTyped$Unittests_for_test_args_TestArgs_test_4.coverage" NAME="Unittests for test_args.TestArgs.test_4 Coverage Results" MODIFIED="1714659878641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ArgParseTyped$Unittests_for_test_args_TestArgs_test_mutually_exclusive_group.coverage" NAME="Unittests for test_args.TestArgs.test_mutually_exclusive_group Coverage Results" MODIFIED="1715169901442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ArgParseTyped$.coverage" NAME=" Coverage Results" MODIFIED="1715167773907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
