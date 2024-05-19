@@ -22,6 +22,21 @@ class TestArgs(TestCase):
         self.assertEqual(args.val, 0.0)
         self.assertIsInstance(args, Arguments)
 
+    def test_args_ignored(self) -> None:
+        class Arguments(TypedNamespace):
+            _private: str = "test"
+            other: str = "Other"
+            input: str = argument('-i', '--input')
+            output: str = argument('-o', '--output')
+            hex: bool = argument('-H', '--hex', action='store_true')
+            val: float = argument('-V', default=0.0)
+        args: Arguments = TypedArgumentParser[Arguments](namespacecls=Arguments).parse_args(['-i', 'abc', '-o', 'def', '-H'])
+        self.assertEqual(args.input, 'abc')
+        self.assertEqual(args.output, 'def')
+        self.assertTrue (args.hex)
+        self.assertEqual(args.val, 0.0)
+        self.assertIsInstance(args, Arguments)
+
     def test_args_dest_ok(self) -> None:
         class Arguments(TypedNamespace):
             testname1: str = argument('--testname1')
