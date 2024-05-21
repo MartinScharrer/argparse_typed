@@ -1,7 +1,15 @@
 """Type hint support for argparse"""
 
 import argparse
-from typing import Any, Self, cast, Sequence, Literal, TypeAlias, Callable, Optional, Generic, TypeVar
+from typing import Any, cast, Sequence, Literal, TypeAlias, Callable, Optional, Generic, TypeVar
+
+try:
+    from typing import Self
+except ImportError:
+    try:
+        from typing_extensions import Self
+    except ImportError:
+        Self = 'Self'
 
 # Type variable for generic namespaces
 NS = TypeVar("NS", covariant=True, bound='TypedNamespace')
